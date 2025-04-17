@@ -26,14 +26,15 @@ The **double inverted pendulum** represents a classical benchmark for testing co
 
 ---
 
-## 📂 Repository Structure
+### 📁 Repository Structure
 
-| File | Description |
-|------|-------------|
-| `251441861CourseProject.m` | Main MATLAB script for modeling, control design, and simulation |
-| `251441861_Course Project.pdf` | Detailed write-up including system modeling and controller performance |
-| `251441861_Presentation.pptx` | Project presentation slides |
-| `README.md` | This file |
+| File                                  | Description                                                       |
+|---------------------------------------|-------------------------------------------------------------------|
+| `251441861CourseProject.m`            | Main MATLAB script for modeling, control design, and simulation   |
+| `251441861_Course Project.pdf`        | Detailed write-up including system modeling and controller performance |
+| `Course Project ECE 9507-9057 Winter 2025.pdf` | Project problem statement and evaluation criteria                |
+| `README.md`                           | This file                                                         |
+
 
 ---
 
